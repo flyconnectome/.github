@@ -18,6 +18,10 @@ Tools to analyse connectomes, built on the [natverse](https://natverse.org) (R) 
 - [influencer](https://github.com/natverse/influencer): influence of one group of neurons on another, through all paths
 - [comorpher](https://github.com/flyconnectome/comorpher): transfers cell types between connectomes, using morphology and connectivity
 
+## Visualisation
+
+- [nat.ggplot](https://github.com/natverse/nat.ggplot): publication-quality 2D neuroanatomy renderings with ggplot2
+
 ## Dataset access
 
 - R: [bancr](https://github.com/natverse/bancr) (BANC) · [neuprintr](https://github.com/natverse/neuprintr) (neuPrint) · [fafbseg](https://github.com/natverse/fafbseg) (FlyWire) · [malevnc](https://github.com/natverse/malevnc) (MANC) · [malecns](https://github.com/natverse/malecns) (male CNS) · [crantr](https://github.com/flyconnectome/crantr) (CRANT) · [fancr](https://github.com/flyconnectome/fancr) (FANC) · [seatabler](https://github.com/flyconnectome/seatabler) (SeaTable)
